@@ -86,7 +86,7 @@ author:
   location         : "Hangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://404.com"
+  googlescholar    : #"http://404.com"
   email            : "so0729vane@126.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -107,13 +107,13 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
+  steam            : #"https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            : 
+  weibo            : "https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
   xing             :
-  youtube          : "https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
+  youtube          : #"https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
   wikipedia        :
 
 
