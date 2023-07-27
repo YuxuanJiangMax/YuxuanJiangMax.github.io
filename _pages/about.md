@@ -12,9 +12,7 @@ Here is **Yuxuan Jiang (Atlas, [江雨瑄](https://jiangyuxuan.com/file/江雨�
 
 I am a Msc from the **University of Leeds**, majoring in **Environment and Development**. My bachelor's degree is in **Physical Geography and Resource Environment** from **Beijing Normal University (BNU)**. I was very fortunate to be advised by [Prof Jiang Lingmei](http://www.slrss.cn/sourcedb_slrss_cas/kydw/yjy/202006/t20200628_566012.html) and [Prof Qu Yonghua](http://www.slrss.cn/sourcedb_slrss_cas/kydw/fyjy/202006/t20200628_566005.html) when I spent time at BNU, and equally fortunate to be supervised by [Prof Imogen Rattle](https://environment.leeds.ac.uk/see/staff/8918/dr-imogen-rattle) when I studied abroad in Leeds. Here is [my Resume](https://jiangyuxuan.com/file/ResumeYuxuanJiang.pdf).
 
-<img src="https://yuxuanjiangmax.github.io/Yuxuan Jiang.jpg" class="floatpic" width="360" height="480">
-
-![Atlas is what I want to be](/images/chess.jpg)
+![Atlas is what I want to be](/images/Yuxuan Jiang.jpg class="floatpic" width="360" height="480")
 
 <br>
 
