@@ -107,14 +107,14 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : #"https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
+  steam            : "https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            : "https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
-  xing             :
+  weibo            : #"https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
+  xing             : "https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
   youtube          : #"https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
-  wikipedia        :
+  wikipedia        : "https://space.bilibili.com/34552496?spm_id_from=333.788.0.0"
 
 
 # Reading Files

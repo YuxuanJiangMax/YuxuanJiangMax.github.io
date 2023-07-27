@@ -12,14 +12,19 @@ Here is **Yuxuan Jiang (Atlas, [江雨瑄](https://jiangyuxuan.com/file/江雨�
 
 I am a Msc from the **University of Leeds**, majoring in **Environment and Development**. My bachelor's degree is in **Physical Geography and Resource Environment** from **Beijing Normal University (BNU)**. I was very fortunate to be advised by [Prof Jiang Lingmei](http://www.slrss.cn/sourcedb_slrss_cas/kydw/yjy/202006/t20200628_566012.html) and [Prof Qu Yonghua](http://www.slrss.cn/sourcedb_slrss_cas/kydw/fyjy/202006/t20200628_566005.html) when I spent time at BNU, and equally fortunate to be supervised by [Prof Imogen Rattle](https://environment.leeds.ac.uk/see/staff/8918/dr-imogen-rattle) when I studied abroad in Leeds. Here is [my Resume](https://jiangyuxuan.com/file/ResumeYuxuanJiang.pdf).
 
+<img src="https://yuxuanjiangmax.github.io/Yuxuan Jiang.jpg" class="floatpic" width="360" height="480">
+
+![Atlas is what I want to be](/images/chess.jpg)
+
 <br>
 
 Academic Background
 ======
-**<font color='red'>[Highlight]</font>I am looking for PhD to start in 2024 Spr or Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
+**<font color='red'>[Highlight]</font>I am looking for PhD to start in 2024 Spr or Fall. Contact me if you have any leads!** [talk with me](so0729vane@126.com)
 
 - **Sep 2015 - June 2019:** Beijing Normal University (BSc)
 - **Jan 2021 - Mar 2022:** University of Leeds (MSc)
+- Expect to apply for a **RA** in Hongkong and will finish in 2024. Looking for **PhD position** after RA!
 
 <br>
 
@@ -29,36 +34,16 @@ Research Interests
 - Mineralisation Mechanism of Crystalline Rocks
 - Palaeoceanography
 
-My current research focuses on 
+My research during my MSc studies focused on the possible impacts and practical aspects of anthropogenic factors such as environmental policies on today's environment. My interest lies in studying **Environmental Changes on large time scales**, obtaining their key influences, and as lessons fitting the Anthropocene changes to the environment. In conclusion, we are in an era of rapid development where predictable environmental changes positively influence everyone's life. I wish to dedicate my talents to this meaningful cause and bring well-being to society.
 
 <br>
 
 ## News and Updates
 
-- **Jan 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2000：**[**iii手册**](https://bilibili.com/) has been published!
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- **March 23:** Glad to join Hangzhou Tudun Environmental Technology Co.
+- **Jan 2023：**Glad to be awarded the Best New Employee of the Year by Zhejiang Environmental Science and Technology Co.
+- **Dec 2022：**Completion of the survey on the basic environmental conditions of water source protection areas in [Daishan County](https://baike.baidu.com/item/%E5%B2%B1%E5%B1%B1%E5%8E%BF/6792495) (Zhejiang, China).
+- **Oct 2022：**Obtained environmental supervision certificate for construction project.
+- **August 22:** Glad to have independently completed the company's promotional [video](https://www.bilibili.com/video/BV1vG411H7jJ/?spm_id_from=333.999.0.0&vd_source=e138d36a71c4a6d180d5b0a155b9bc28) editing.
+- **Jul 22:** Glad to join [Zhejiang Environmental Science and Technology Co](https://www.zjshjkj.com/).
+- **May 22:** Returned home! Hope the bright sunshine in the fresh air is more than just a backdrop to a once foggy city.
