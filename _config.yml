@@ -87,6 +87,10 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://404.com"
+  links:
+    - label: "Bilibili"
+      icon: "fas fa-photo-video"
+      url: "https://space.bilibili.com/34552496"
   email            : "so0729vane@126.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
