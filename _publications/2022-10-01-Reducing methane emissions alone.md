@@ -2,7 +2,7 @@
 title: "Reducing methane emissions alone will not keep warming to 1.5 degrees Celsius - a discussion at the Global Methane Pledge"
 collection: publications
 type: "Course Outcomes"
-permalink: /publication/2022-10-01-Reducing methane emissions alone.md
+permalink: /publication/2022-10-01-Reducing methane emissions alone will not keep warming to 1.5 degrees Celsius - a discussion at the Global Methane Pledge
 excerpt: 'This paper is written in the natural climate change style, using the FaIR climate model. Other models are left for future work.'
 date: 2022-10-01
 venue: 'TurnitinUK'
