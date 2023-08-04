@@ -9,12 +9,3 @@ location: "Beijing, China"
 ---
 
 Interests bloom like flowers in a field of springtime flowers.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
