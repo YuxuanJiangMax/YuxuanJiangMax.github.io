@@ -250,7 +250,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: single
+      layout: talks
       author_profile: true
       share: true
 

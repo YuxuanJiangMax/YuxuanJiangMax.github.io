@@ -8,9 +8,9 @@ author_profile: true
 ## Competitions
 
 - **Jun 2018：**Best Programme Producer in Beijing Normal University Television
-  - Sep 2015 - Jan 2019the main producer of the "Shida News", and the graduation party version of the academic year of 2017 was broadcasted by more than 20,000 in Bilibili.<br/><img src='/images/社团活动.jpg'>
-- **Oct 2017: ** Third Prize of The First Contest of Culture Creation
-- **Sep 2017:  **Third Prize of The 3rd China College Students' 'Internet+' Innovation and Entrepreneurship Competition
+  - **Sep 2015 - Jan 2019:** The main producer of the "Shida News", and the graduation party version of the academic year of 2017 was broadcasted by more than 20,000 in Bilibili.<br/><img src='/images/社团活动.jpg'>
+- **Oct 2017:**  Third Prize of The First Contest of Culture Creation
+- **Sep 2017:**  Third Prize of The 3rd China College Students' 'Internet+' Innovation and Entrepreneurship Competition
 
 - **Jun 2017：**7th Prize of the 2017 Beijing Higher Education Chess Invitational Tournament.
   - Sep 2016 - Jun 2017, served as the president of BNU Chess Association, and led the team to win the first place of the group in the 2017 Beijing Higher Education Chess Invitational Tournament.<br/><img src='/images/chess.jpg'>
