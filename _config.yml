@@ -190,10 +190,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  awards:
     output: true
     permalink: /:collection/:path/
-  talks:
+  projects:
     output: true
     permalink: /:collection/:path/
 
@@ -236,21 +236,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _awards
   - scope:
       path: ""
-      type: portfolio
+      type: awards
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _projects
   - scope:
       path: ""
-      type: talks
+      type: projects
     values:
-      layout: talk
+      layout: project
       author_profile: true
       share: true
 
