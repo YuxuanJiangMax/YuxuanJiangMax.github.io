@@ -4,16 +4,16 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /Projects/    
+    url: /projects/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Awards"
-    url: /Awards/
+    url: /awards/
         
-  - title: "Hobbies"
-    url: /Hobbies/
+  #- title: "Hobbies"
+  #  url: /hobbies/
     
   - title: "Resume"
     url: /files/ResumeYuxuanJiang.pdf

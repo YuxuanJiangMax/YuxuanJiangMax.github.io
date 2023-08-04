@@ -10,15 +10,13 @@ redirect_from:
 
 Here is **Yuxuan Jiang (Atlas, [江雨瑄](/file/江雨瑄简历.pdf))**.
 
-I am a Msc from the **University of Leeds**, majoring in **Environment and Development**. My bachelor's degree is in **Physical Geography and Resource Environment** from **Beijing Normal University (BNU)**. I was very fortunate to be advised by [Prof Jiang Lingmei](http://www.slrss.cn/sourcedb_slrss_cas/kydw/yjy/202006/t20200628_566012.html) and [Prof Qu Yonghua](http://www.slrss.cn/sourcedb_slrss_cas/kydw/fyjy/202006/t20200628_566005.html) when I spent time at BNU, and equally fortunate to be supervised by [Prof Imogen Rattle](https://environment.leeds.ac.uk/see/staff/8918/dr-imogen-rattle) when I studied abroad in Leeds. Here is [my Resume](/file/ResumeYuxuanJiang.pdf).
-
-![Atlas is what I want to be](/images/chess.jpg)
+I am a Msc from the **University of Leeds**, majoring in **Environment and Development**. My bachelor's degree is in **Physical Geography and Resource Environment** from **Beijing Normal University (BNU)**. I was very fortunate to be advised by [Prof Jiang Lingmei](http://www.slrss.cn/sourcedb_slrss_cas/kydw/yjy/202006/t20200628_566012.html),  [Prof Qu Yonghua](http://www.slrss.cn/sourcedb_slrss_cas/kydw/fyjy/202006/t20200628_566005.html) and [Prof Zhao Hanpin](http://geo.bnu.edu.cn/jgszbf/jzyjbk/jzryzc/33918.html) when I spent time at BNU, and equally fortunate to be supervised by [Prof Imogen Rattle](https://environment.leeds.ac.uk/see/staff/8918/dr-imogen-rattle) when I studied abroad in Leeds. Here is [my Resume](/file/ResumeYuxuanJiang.pdf).
 
 <br>
 
 Academic Background
 ======
-**<font color='red'>[Highlight]</font>I am looking for PhD to start in 2024 Spr or Fall. Contact me if you have any leads!** [talk with me](so0729vane@126.com)
+**<font color='red'>[Highlight]</font>I am looking for PhD to start in 2024 Spr or Fall. Contact me if you have any leads!** [talk with me](/contact me/)
 
 - **Sep 2015 - June 2019:** Beijing Normal University (BSc)
 - **Jan 2021 - Mar 2022:** University of Leeds (MSc)
@@ -38,7 +36,7 @@ My research during my MSc studies focused on the possible impacts and practical 
 
 ## News and Updates
 
-- **March 23:** Glad to join Hangzhou Tudun Environmental Technology Co.
+- **March 23:** Grateful to Mr. Long for knowing that I would get onto a PhD and still offering me a position in Hangzhou Tudun Environmental Technology Co.
 - **Jan 2023：**Glad to be awarded the Best New Employee of the Year by Zhejiang Environmental Science and Technology Co.
 - **Dec 2022：**Completion of the survey on the basic environmental conditions of water source protection areas in [Daishan County](https://baike.baidu.com/item/%E5%B2%B1%E5%B1%B1%E5%8E%BF/6792495) (Zhejiang, China).
 - **Oct 2022：**Obtained environmental supervision certificate for construction project.
