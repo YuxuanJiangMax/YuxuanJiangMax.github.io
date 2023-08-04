@@ -1,5 +1,5 @@
 ---
-title: "Reducing methane emissions alone will not keep warming to 1.5 degrees Celsius - a discussion at the Global Methane Pledge"
+title: "Reducing methane emissions alone will not keep warming to 1.5 degrees Celsius"
 collection: publications
 type: "Course Outcomes"
 permalink: /publication/2022-10-01-Reducing methane emissions alone.md
