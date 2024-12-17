@@ -16,11 +16,10 @@ I am a Msc from the **University of Leeds**, majoring in **Environment and Devel
 
 Academic Background
 ======
-**<font color='red'>[Highlight]</font>I am looking for PhD to start in 2024 Spr or Fall. Contact me if you have any leads!** [talk with me](/contact me/)
+**<font color='red'>[Highlight]</font>I am looking for PhD to start in 2025 Spr or Fall. Contact me if you have any leads!** [talk with me](/contact me/)
 
 - **Sep 2015 - June 2019:** Beijing Normal University (BSc)
 - **Jan 2021 - Mar 2022:** University of Leeds (MSc)
-- Expect to apply for a **RA** in Hongkong and will finish in 2024. Looking for **PhD position** after RA!
 
 <br>
 
