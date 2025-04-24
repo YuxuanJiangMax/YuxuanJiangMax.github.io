@@ -16,20 +16,24 @@ I am a Msc from the **University of Leeds**, majoring in **Environment and Devel
 
 Academic Background
 ======
-**<font color='red'>[Highlight]</font>I am looking for PhD to start in 2025 Spr or Fall. Contact me if you have any leads!** [talk with me](/contact me/)
+**<font color='red'>[Highlight]</font>I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](/contact me/)
 
 - **Sep 2015 - June 2019:** Beijing Normal University (BSc)
 - **Jan 2021 - Mar 2022:** University of Leeds (MSc)
 
 <br>
 
-Research Interests
+Research Background & Interests
 ======
-- Atmospheric Pollution Mechanisms
-- Mineralisation Mechanism of Crystalline Rocks
-- Palaeoceanography
+During my master’s program, my research focused on **investigating and quantifying the relationship between public acceptance of geothermal energy utilization facilities in Yorkshire and their policy impacts** (e.g., regulatory frameworks, subsidy mechanisms, and community engagement strategies). My undergraduate research centered on **assessing the performance disparities among soil moisture measurement devices across diverse application scenarios**, with emphasis on methodological standardization and field applicability.
 
-My research during my MSc studies focused on the possible impacts and practical aspects of anthropogenic factors such as environmental policies on today's environment. My interest lies in studying **Environmental Changes on large time scales**, obtaining their key influences, and as lessons fitting the Anthropocene changes to the environment. In conclusion, we are in an era of rapid development where predictable environmental changes positively influence everyone's life. I wish to dedicate my talents to this meaningful cause and bring well-being to society.
+My scholarly interests lie at the intersection of **human-natural system interactions**, particularly in elucidating **synergistic evolution and coordinated development pathways between societal systems and the environment**. By integrating perspectives from **environmental economics, management studies, and social sciences**, I aim to analyze how economic activities drive environmental externalities and devise **evidence-based regulatory interventions**. This interdisciplinary approach seeks to optimize **environmental policy formulation** and advance **regionally tailored sustainable development agendas**.
+
+<br>
+
+# Vision & Commitment
+
+We are navigating an era of rapid environmental transitions, where **predictable environmental shifts** (e.g., decarbonization mandates, circular economy transitions) are reshaping individual and collective livelihoods. My career aspiration is to contribute rigorously to this transformative field, leveraging **data-driven policy analysis** and **stakeholder-centered governance frameworks** to foster societal well-being through environmentally resilient development.
 
 <br>
 
