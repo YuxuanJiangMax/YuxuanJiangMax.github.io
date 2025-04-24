@@ -43,7 +43,7 @@ We are navigating an era of rapid environmental transitions, where **predictable
 
 ## News and Updates
 
-- **March 23:** Grateful to Mr. Long for knowing that I would get onto a PhD and still offering me a position in Hangzhou Tudun Environmental Technology Co.
+- **March 23:** Grateful to Mr. Loong for knowing that I would get onto a PhD and still offering me a position in Hangzhou Tudun Environmental Technology Co.
 - **Jan 2023：**Glad to be awarded the Best New Employee of the Year by Zhejiang Environmental Science and Technology Co.
 - **Dec 2022：**Completion of the survey on the basic environmental conditions of water source protection areas in [Daishan County](https://baike.baidu.com/item/%E5%B2%B1%E5%B1%B1%E5%8E%BF/6792495) (Zhejiang, China).
 - **Oct 2022：**Obtained environmental supervision certificate for construction project.
