@@ -25,6 +25,10 @@ Academic Background
 
 Research Background & Interests
 ======
+- Mechanisms Influencing Sustainable Consumption Behaviour
+- Digital Extension of Resource and Environmental Economics
+- Synergies between Environmental Policy and Video Marketing
+
 During my master’s program, my research focused on **investigating and quantifying the relationship between public acceptance of geothermal energy utilization facilities in Yorkshire and their policy impacts** (e.g., regulatory frameworks, subsidy mechanisms, and community engagement strategies). My undergraduate research centered on **assessing the performance disparities among soil moisture measurement devices across diverse application scenarios**, with emphasis on methodological standardization and field applicability.
 
 My scholarly interests lie at the intersection of **human-natural system interactions**, particularly in elucidating **synergistic evolution and coordinated development pathways between societal systems and the environment**. By integrating perspectives from **environmental economics, management studies, and social sciences**, I aim to analyze how economic activities drive environmental externalities and devise **evidence-based regulatory interventions**. This interdisciplinary approach seeks to optimize **environmental policy formulation** and advance **regionally tailored sustainable development agendas**.
